@@ -41,7 +41,9 @@ Give a ⭐ if you like this project!
 
 This project is [MIT](./MIT.md) licensed.
 
-
+![](https://github.com/degisew/Vet-clinic-database/blob/query/shoots/q1.PNG)
+![](https://github.com/degisew/Vet-clinic-database/blob/query/shoots/q2.PNG)
+![](https://github.com/degisew/Vet-clinic-database/blob/query/shoots/q3.PNG)
 ![](https://github.com/degisew/Vet-clinic-database/blob/dev/shoots/shoot1.png)
 
 ![](https://github.com/degisew/Vet-clinic-database/blob/dev/shoots/shoot2.PNG)
@@ -65,3 +67,4 @@ This project is [MIT](./MIT.md) licensed.
 ![](https://github.com/degisew/Vet-clinic-database/blob/query/shoots/truncate.PNG)
 
 ![](https://github.com/degisew/Vet-clinic-database/blob/query/shoots/write%20query.PNG)
+
