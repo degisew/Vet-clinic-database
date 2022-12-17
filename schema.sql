@@ -26,7 +26,6 @@ ALTER TABLE animals DROP COLUMN species;
  ALTER TABLE animals ADD owner_id INT;
  ALTER TABLE animals ADD CONSTRAINT owner_constraint FOREIGN KEY (owner_id) REFERENCES owners (id);
 
-
 CREATE TABLE vets(id INT PRIMARY KEY GENERATED ALWAYS AS IDENTITY, name VARCHAR(20) NOT NULL, age INT NOT NULL, date_of_graduation DATE);
 
 CREATE TABLE specializations (
@@ -44,3 +43,4 @@ CONSTRAINT vets_fk
 CONSTRAINT animals_fk 
 FOREIGN KEY(animals_id) 
 REFERENCES animals (id));
+

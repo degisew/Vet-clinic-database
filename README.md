@@ -144,11 +144,16 @@ _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 ![](https://github.com/degisew/Vet-clinic-database/blob/join-table/shoots/lq1.png)
 
 ![](https://github.com/degisew/Vet-clinic-database/blob/join-table/shoots/lq2.png)
 
 ![](https://github.com/degisew/Vet-clinic-database/blob/join-table/shoots/lq3.png)
+
+![](https://github.com/degisew/Vet-clinic-database/blob/query-multiple-tables/shoots/q1.PNG)
+![](https://github.com/degisew/Vet-clinic-database/blob/query-multiple-tables/shoots/q2.PNG)
+![](https://github.com/degisew/Vet-clinic-database/blob/query-multiple-tables/shoots/q3.PNG)
 
 ![](https://github.com/degisew/Vet-clinic-database/blob/dev/shoots/shoot1.png)
 
@@ -173,3 +178,4 @@ _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/
 ![](https://github.com/degisew/Vet-clinic-database/blob/query/shoots/truncate.PNG)
 
 ![](https://github.com/degisew/Vet-clinic-database/blob/query/shoots/write%20query.PNG)
+
