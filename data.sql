@@ -21,6 +21,7 @@ UPDATE animals SET owner_id=1 where name='Agumon';
 UPDATE animals SET owner_id=2 where name IN ('Gabumon','Pikachu');
 UPDATE animals SET owner_id=3 where name IN ('Devimon','Plantmon');
 UPDATE animals SET owner_id=4 where name IN ('Charmander','Squirtle','Blossom');
+
 UPDATE animals SET owner_id=5 where name IN ('Angemon','Boarmon');
 
 INSERT INTO vets (name,age,date_of_graduation) 
@@ -57,3 +58,4 @@ INSERT INTO specializations (vets_id,species_id)
  (16,2,'2020-08-03'),
  (17,3,'2020-05-24'),
  (17,1,'2021-01-11');
+
