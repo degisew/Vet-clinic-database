@@ -46,7 +46,6 @@ SELECT a.name, a.escape_attempts, o.full_name as owner FROM animals a JOIN owner
 SELECT a.name, s.name as species, o.full_name as owner FROM animals a JOIN species s ON a.species_id=s.id JOIN owners o ON a.owner_id=o.id WHERE o.full_name='jennifer orwell' AND s.name='digimon';
 SELECT o.full_name, COUNT(a.name) as total_animals from animals a left join owners o on o.id=a.owner_id group by o.full_name;
 
-
 SELECT a.name,v.name,vi.visist_date from animals a,vets v,visits vi where vi.animals_id=a.id and vi.vets_id=v.id and v.id=1;
 SELECT count(a.name) as animals,v.name as vet_name from animals a,vets v,visits vi where vi.animals_id=a.id and vi.vets_id=v.id and v.id=3 GROUP BY v.name;
 SELECT v.name, s.name from species s full join specializations spe on spe.species_id = s.id FULL JOIN vets v on v.id = spe.vets_id;
