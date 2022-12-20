@@ -57,3 +57,6 @@ SELECT a.name as animal_name,v.name as vet_name,v.age, vi.visist_date from anima
 SELECT COUNT(v.name), v.name FROM visits vi RIGHT JOIN vets v ON v.id = vi.vets_id JOIN animals a ON a.id = vi.animals_id JOIN specializations sp ON sp.vets_id = v.id WHERE sp.species_id != a.species_id GROUP BY v.name;
 SELECT V.name as vet_name, A.name as animals_name, s.name as species_name from visits vi join animals a on a.id = vi.animals_id join vets v on v.id = vi.vets_id join species S on S.id = A.species_id where V.id = 2 GROUP by s.name, v.name, a.name;
 
+explain analyze SELECT COUNT(*) FROM visits where animals_id = 4;
+SELECT * FROM visits where vets_id = 2;
+SELECT * FROM owners where email = 'owner_18327@mail.com';
