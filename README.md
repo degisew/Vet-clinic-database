@@ -22,7 +22,6 @@ REQUIRED SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -48,11 +47,15 @@ After you're finished please remove all the comments and instructions!
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
+
 # Vet-clinic-database
+
 a project that contains PostgereSQL data.
 
 ## 🛠 Built With <a name="built-with"></a>
+
 - PostgreSQL
+
 ### Tech Stack <a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
@@ -69,8 +72,7 @@ Run the command below from the Terminal:
 
       git clone <URL> 'https://github.com/degisew/vet-clinic-database' in your terminal
 
-	  cd dev
-
+      cd dev
 
 ### Prerequisites
 
@@ -91,8 +93,13 @@ In order to run this project you need to install PostgreSQL on your machine.
 - Twitter: [@DJ_etiya](https://twitter.com/@DJ_etiya)
 - LinkedIn: [jegisew21](https://www.linkedin.com/in/degisew-mengist)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+👤 **Nurgul Kereikhan**
 
+- GitHub: [@githubhandle](https://github.com/NurkaAmre)
+- Twitter: [@twitterhandle](https://twitter.com/AmreNurgul)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amre-nurgul/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -136,7 +143,6 @@ _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ![](https://github.com/degisew/Vet-clinic-database/blob/join-table/shoots/lq1.png)
 
 ![](https://github.com/degisew/Vet-clinic-database/blob/join-table/shoots/lq2.png)
@@ -170,4 +176,3 @@ _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/
 ![](https://github.com/degisew/Vet-clinic-database/blob/query/shoots/truncate.PNG)
 
 ![](https://github.com/degisew/Vet-clinic-database/blob/query/shoots/write%20query.PNG)
-
