@@ -91,6 +91,13 @@ In order to run this project you need to install PostgreSQL on your machine.
 - Twitter: [@DJ_etiya](https://twitter.com/@DJ_etiya)
 - LinkedIn: [jegisew21](https://www.linkedin.com/in/degisew-mengist)
 
+👤 **Nurgul Kereikhan**
+
+- GitHub: [@githubhandle](https://github.com/NurkaAmre)
+- Twitter: [@twitterhandle](https://twitter.com/AmreNurgul)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amre-nurgul/)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
