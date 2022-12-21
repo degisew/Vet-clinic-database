@@ -36,7 +36,6 @@ INSERT INTO specializations (vets_id,species_id)
  (3,2),
  (4,2);
 
-
  INSERT INTO VISITS(animals_id,vets_id,visist_date)
  VALUES (1,1,'2020-05-24'),
  (1,3,'2020-07-22'), 
